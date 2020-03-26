@@ -1,0 +1,35 @@
+<div id="main">
+	<h1>Donation Center</h1>
+	<h2>Show Your Support for our Cause</h2>
+
+	<div class="lightSection">
+		<h3>Hello, dear visitor!</h3>
+		<p>This is Tutorialzine's Donation Center...</p>	
+
+		<!-- The PayPal Donation Button -->
+
+	</div>
+
+	<div class="chart">
+		Our Goal
+	</div>
+
+	<div class="donations">
+		<?php echo $percent?>% done
+	</div>
+
+	<div class="clear"></div>
+
+	<div class="donors">
+		<h3>The Donor List</h3>
+		<h4>Folks Who Showed Their Support</h4>
+
+		<div class="comments">
+
+		<!-- PHP Code that generates the comments -->
+
+		</div> <!-- Closing the comments div -->
+
+	</div> <!-- Closing the donors div -->
+
+</div> <!-- Closing the main div -->
